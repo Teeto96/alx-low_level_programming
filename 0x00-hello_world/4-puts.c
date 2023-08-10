@@ -1,4 +1,3 @@
-#!/bin/bash
 #include<stio.h>
 /**
  * main - Entry point
